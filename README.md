@@ -8,3 +8,6 @@ A key feature of the system is robust exception handling, particularly in cases 
 In such instances, the program will prompt an error window, ensuring a seamless and error-resistant user experience.
 The project undergoes comprehensive testing to evaluate its performance and reliability. 
 The overall goal is to optimize investment strategies by leveraging the combined strengths of AI, Python, and an intuitive interface, fostering a more informed and efficient decision-making process for users.
+
+
+![Screenshot 2023-12-30 155431](https://github.com/yuseiff/-Stock-Market-Prediction-Application/assets/111249341/2c973e35-a44b-4635-bf16-52d6fdec21de)
