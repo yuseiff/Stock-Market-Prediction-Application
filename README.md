@@ -14,3 +14,5 @@ The overall goal is to optimize investment strategies by leveraging the combined
 
 
 ![Screenshot 2024-01-05 232327](https://github.com/yuseiff/-Stock-Market-Prediction-Application/assets/111249341/2cd4321d-6a77-48ec-be97-09adbd4cd2b6)
+
+Linkedin Profile: https://www.linkedin.com/in/youssef-husseiny-989a17257/
