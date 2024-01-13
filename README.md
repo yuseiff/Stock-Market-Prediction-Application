@@ -11,4 +11,6 @@ The overall goal is to optimize investment strategies by leveraging the combined
 
 
 ![Screenshot 2023-12-30 155431](https://github.com/yuseiff/-Stock-Market-Prediction-Application/assets/111249341/2c973e35-a44b-4635-bf16-52d6fdec21de)
+
+
 ![Screenshot 2024-01-05 232327](https://github.com/yuseiff/-Stock-Market-Prediction-Application/assets/111249341/2cd4321d-6a77-48ec-be97-09adbd4cd2b6)
